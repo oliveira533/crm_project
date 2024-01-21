@@ -6,3 +6,7 @@
 ### <a href="https://github.com/oliveira533">Gustavo Oliveira</a>
 ### <a href="https://github.com/1eonardopereira/">Leonardo Pereira</a>
 ---
+
+## Funcionamento
+### Este software de CRM é um sistema modular e adaptativo ao escopo do negócio e às suas necessidades.
+---
